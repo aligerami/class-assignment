@@ -11,6 +11,5 @@ for i in range (1,number+1):
         print (j,end=" ")
     for h in range (i,0,-1): 
         print(h,end=" ")   
-    print(" ")
 
 
